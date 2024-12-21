@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Open a new github ripository",
+        "done": true
+    },
+    {
+        "task": "Upload the necessary files",
+        "done": true
+    },
+    {
+        "task": "Submit the project",
+        "done": false
+    }
+]
